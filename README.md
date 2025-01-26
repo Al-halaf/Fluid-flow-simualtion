@@ -52,4 +52,3 @@ The simulation models fluid flowing from left to right across a grid containing 
 ---
 
 Feel free to explore and modify the code for additional features or scenarios!
-
